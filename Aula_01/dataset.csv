@@ -1,0 +1,9 @@
+Idade,genero,febre,tosse,Pressão,falta de ar,positivo covid,vacinação,Emergencia
+20,M,não,sim,normal,não,sim,2 dose,leve
+35,F,alta,sim,normal,sim,sim,nenhuma,alta
+80,M,baixa,sim,normal,moderada,não,2 dose,media
+75,O,alta,sim,alta,sim,sim,nenhuma,urgencia
+40,M,não,sim,normal,não,não,2 dose,leve
+50,F,sim,sim,alta,sim,sim,nenhuma,urgencia
+70,F,não,sim,normal,não,sim,3 dose,media
+35,F,não,sim,normal,não,sim,3 dose,leve
